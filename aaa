@@ -1,1 +1,1023 @@
-print("hello world")
+local tab = 1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
+print("hello world "..tab)
+tab = tab +1
